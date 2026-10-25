@@ -2,6 +2,8 @@
 
 Instaladores do **Casio CZ-101**, uma emulação do sintetizador de distorção de fase da Casio.
 
+**Site:** https://helicleiton.github.io/casio-cz101-releases/ · **Tocar no navegador:** https://helicleiton.github.io/casio-cz101-releases/play/
+
 ## Instalar
 
 1. Abra a [última versão](https://github.com/helicleiton/casio-cz101-releases/releases/latest).
